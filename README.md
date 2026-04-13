@@ -31,10 +31,10 @@ I enjoy building practical solutions that solve real-world problems.
 
 Here are some of the projects I've been working on:
 
-* 🔹 [WFRP4e - Oficjalne polskie tłumaczenie]([https://github.com/TomasWarchol/REPO_NAME](https://github.com/foundryvttpl/wfrp4e-core-pl))
+* 🔹 [WFRP4e - Oficjalne polskie tłumaczenie]([https://github.com/foundryvttpl/wfrp4e-core-pl])
   → Foundry VTT module for WFRP 4th edition
 
-* 🔹 [Coteries of New York]()
+* 🔹 [Coteries of New York]
   → Developed Polish localization of the game, including modifications to the game code and text assets
 
 
