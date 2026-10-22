@@ -1,57 +1,34 @@
-👋 Hi, I'm Tomasz Warchoł
+## Hi, I'm Tomasz Warchoł 👋
 
-💻 Software Developer working on industrial and factory applications at Hitachi Energy
-⚙️ Focused on automation, process optimization, and quality improvement in production environments
+**.NET developer building software for the factory floor**: process automation, shop-floor data and AI agents that help people on production lines do their jobs better.
 
-🧠 About Me
+At **Hitachi Energy** I develop internal applications that support manufacturing. I automate repetitive tasks, improve process performance and help quality teams make data-driven decisions. Now I'm bringing that experience into AI-enabled .NET applications built with **Microsoft Foundry**, **Microsoft Agent Framework** and the **Model Context Protocol**.
 
-I work on developing internal tools and applications that support manufacturing processes.
+- 🏭 **Domain:** manufacturing · process improvement · quality · production data
+- 🛠️ **Core:** C# · .NET · ASP.NET Core · Blazor · EF Core · SQL
+- 🤖 **AI:** RAG · AI agents · MCP servers · LLM evaluations
+- 🌱 **Learning now:** Microsoft Foundry Agent Service · Copilot Studio
 
-My focus is on:
+### 🚧 Currently building: Smart Factory Suite
 
-⚙️ Automating repetitive tasks in production environments
-📊 Improving efficiency and process performance
-🔍 Supporting quality control and data-driven decisions
+A small ecosystem of .NET + AI apps for manufacturing. Each one runs locally in minutes on synthetic data, and they talk to each other through MCP.
 
-I enjoy building practical solutions that solve real-world problems.
----
+- **ShopFloor Assistant** *(in progress)*: answers operators' questions from work instructions and SOPs, always citing the source page.
+- Next up: an MCP server for production data, real-time OEE monitoring and a Microsoft Foundry-based quality (8D) agent.
 
-## 🛠 Tech Stack
+### 🧰 Tech stack
 
-[HTML]
-[CSS]
-[JavaScript]
-[Python]
-[.NET]
-[React]
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,githubactions,postgres,sqlite,git,vscode,py,powershell&theme=dark" alt="C#, .NET, Azure, Docker, GitHub Actions, PostgreSQL, SQLite, Git, VS Code, Python, PowerShell" />
+</p>
 
----
+**AI & integration:** Microsoft Foundry · Microsoft Agent Framework · Microsoft.Extensions.AI · Model Context Protocol · Copilot Studio · Ollama · GitHub Models
 
-## 📌 Featured Projects
+### 🌍 Open source
 
-Here are some of the projects I've been working on:
+- [**wfrp4e-core-pl**](https://github.com/foundryvttpl/wfrp4e-core-pl): I'm part of the team translating *Warhammer Fantasy Roleplay 4e* into Polish for Foundry VTT, a community project with active users.
 
-* 🔹 [WFRP4e - Oficjalne polskie tłumaczenie]([https://github.com/foundryvttpl/wfrp4e-core-pl])
-  → Foundry VTT module for WFRP 4th edition
+### 📫 Contact
 
-* 🔹 [Coteries of New York]
-  → Developed Polish localization of the game, including modifications to the game code and text assets
-
-
-
----
-
-## 🌐 Links
-
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/warcholtomasz/)
-* 📧 Email: [warchol.tomasz.m@gmail.com](mailto:warchol.tomasz.m@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Tomasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasWarchol\&show_icons=true)
-
----
-
-⭐ Thanks for visiting my profile!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-warcholtomasz-0A66C2?style=flat)](https://www.linkedin.com/in/warcholtomasz/)
+[![Email](https://img.shields.io/badge/Email-warchol.tomasz.m%40gmail.com-555?style=flat)](mailto:warchol.tomasz.m@gmail.com)
