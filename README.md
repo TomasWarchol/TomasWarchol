@@ -26,7 +26,7 @@ A small ecosystem of .NET + AI apps for manufacturing. Each one runs locally in 
 
 ### 🌍 Open source
 
-- [**wfrp4e-core-pl**](https://github.com/foundryvttpl/wfrp4e-core-pl): I'm part of the team translating *Warhammer Fantasy Roleplay 4e* into Polish for Foundry VTT, a community project with active users.
+- [**wfrp4e-core-pl**](https://github.com/foundryvttpl/wfrp4e-core-pl): I'm part of the team developing *Warhammer Fantasy Roleplay 4e* into Polish for Foundry VTT, a community project with active users.
 
 ### 📫 Contact
 
