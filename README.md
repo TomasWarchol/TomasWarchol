@@ -7,7 +7,7 @@ At **Hitachi Energy** I develop internal applications that support manufacturing
 - 🏭 **Domain:** manufacturing · process improvement · quality · production data
 - 🛠️ **Core:** C# · .NET · ASP.NET Core · Blazor · EF Core · SQL
 - 🤖 **AI:** RAG · AI agents · MCP servers · LLM evaluations
-- 🌱 **Learning now:** Microsoft Foundry Agent Service · Copilot Studio
+- 🌱 **Learning now:** Microsoft Foundry Agent Service · Copilot Studio Code
 
 ### 🚧 Currently building: Smart Factory Suite
 
